@@ -90,7 +90,7 @@ body {
 		align-items: center;
 	}
 
-.nav-list-item{
+.nav-list-link{
 	display: block;
 	padding-top: 32px;
 	padding-bottom: 32px;
@@ -355,7 +355,6 @@ body {
 	border: 1px solid transparent;
 	border-radius: 4px;
 	padding: 6px 22px;
-	min-width: 128px;
 	margin-left: auto;
 	margin-right: auto;
 	background-color: var(--secondary-background-color);
